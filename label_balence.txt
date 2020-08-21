@@ -1,0 +1,17 @@
+PMEMO:  high arousal 4520 58.8%
+7690	low arousal 3170 41.2%
+
+	high valence 4436 57.7%
+	low valence  3254 42.3%
+
+DEAP	high arousal 680 53.1%
+1280	low arsoual 600 46.9%
+
+	high valence 647 50.5%
+	low valence 633 49.5%
+
+AMIGOS  high arousal 443 56.2%
+788	low arsoual 345 43.3%
+
+	high valence 394 50%
+	low valence  394 50%
