@@ -23,7 +23,7 @@ Whole Architecture of RTCAN-1D
 
 Architecture of RTCAG for EDA feature extraction
 
-[![architecture](https://github.com/guanghaoyin/RTCAN-1D/tree/master/figs/RTCAG.png)](https://github.com/guanghaoyin/RTCAN-1D/tree/master/figs/RTCAG.png)
+[![RTCAG](https://github.com/guanghaoyin/RTCAN-1D/tree/master/figs/RTCAG.png)](https://github.com/guanghaoyin/RTCAN-1D/tree/master/figs/RTCAG.png)
 
 
 
