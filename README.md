@@ -37,7 +37,7 @@ Architecture of RTCAG for EDA feature extraction
 3. Getting the music features from the preprocessed data of PMEmo. The static music feature extraction has been accomplished by OpenSMILE in our previous PMEmo dataset.
 4. Conducting the CvxEDA decomposition to get phasic and tonic signals. Please refer to the searched CvxEDA.py in Github
 5. Conducting annotation recreation. As followed figure illustrates, (a) The annotation collection from a subject in the V/A emotional space; (b) The k-means clustering to calculate two cluster centers and their midpoint; (c) The high and low arousal state separated by threshold; (d) The high and low valence state separated by threshold.
-   [![architecture](https://github.com/guanghaoyin/RTCAN-1D/tree/master/figs/threshold.png)](https://github.com/guanghaoyin/RTCAN-1D/tree/master/figs/threshold.png)
+   [![threshold](https://github.com/guanghaoyin/RTCAN-1D/tree/master/figs/threshold.png)](https://github.com/guanghaoyin/RTCAN-1D/tree/master/figs/threshold.png)
 6. Saving the phasic, tonic and original signals as .txt file for reading.  Saving the label as .csv file. 
 
 
