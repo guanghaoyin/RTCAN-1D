@@ -76,6 +76,13 @@ python AMIGOS_run.py run_train('Valence','tonic', use_attention = True, use_non_
 If you find the code helpful in your resarch or work, please cite the following papers.
 
 ```
+@article{yin2020aeffi,
+  title={A Efficient Multimodal Framework for Large Scale Emotion Recognition by Fusing Music and Electrodermal Activity Signals},
+  author={Guanghao Yin, Shouqian Sun, Dian Yu, Kejun Zhang},
+  journal={arXiv preprint arXiv:2008.09743},
+  year={2020}
+}
+
 @inproceedings{Zhang:2018:PDM:3206025.3206037,
  author = {Zhang, Kejun and Zhang, Hui and Li, Simeng and Yang, Changyuan and Sun, Lingyun},
  title = {The PMEmo Dataset for Music Emotion Recognition},
@@ -93,6 +100,5 @@ If you find the code helpful in your resarch or work, please cite the following 
  address = {New York, NY, USA},
  keywords = {dataset, eda, experiment, music emotion recognition},
 } 
-
 
 ```
