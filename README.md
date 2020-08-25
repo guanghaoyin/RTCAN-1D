@@ -41,7 +41,7 @@ Architecture of RTCAG for EDA feature extraction
 4. Conducting the CvxEDA decomposition to get phasic and tonic signals. Please refer to the searched CvxEDA.py in Github
 5. Conducting annotation recreation. As followed figure illustrates, (a) The annotation collection from a subject in the V/A emotional space; (b) The k-means clustering to calculate two cluster centers and their midpoint; (c) The high and low arousal state separated by threshold; (d) The high and low valence state separated by threshold.
 
-<div align=center><img src="https://s1.ax1x.com/2020/08/25/d606Nd.png" alt="threshold" width="500" height="413" align="middle" />
+<div align=center><img src="https://s1.ax1x.com/2020/08/25/d606Nd.png" alt="threshold" width="500" height="413" align="middle" /></div>
 
 6. Saving the phasic, tonic and original signals as .txt file for reading.  Saving the label as .csv file. 
 
