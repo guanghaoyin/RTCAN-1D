@@ -18,14 +18,10 @@ Considerable attention has been paid for physiological signal-based emotion reco
 
 
 Whole Architecture of RTCAN-1D
-<div style="text-align: center;">
-<img src="https://s1.ax1x.com/2020/08/25/d60a1x.png" alt="RTCAN" width="640" height="240" align="middle" />
-</div>
+<div align=center><img src="https://s1.ax1x.com/2020/08/25/d60a1x.png" alt="RTCAN" width="640" height="240" align="middle" /></div>
 
 Architecture of RTCAG for EDA feature extraction
-<div style="text-align: center;">
-<img src="https://s1.ax1x.com/2020/08/25/d60DBD.png" alt="RTCAG" width="630" height="413" align="middle" />
-</div>
+<div align=center><img src="https://s1.ax1x.com/2020/08/25/d60DBD.png" alt="RTCAG" width="630" height="413" align="middle" /></div>
 
 
 
