@@ -19,11 +19,11 @@ Considerable attention has been paid for physiological signal-based emotion reco
 
 Whole Architecture of RTCAN-1D
 
-[![architecture](https://github.com/guanghaoyin/RTCAN-1D/tree/master/figs/architecture.png)](https://github.com/guanghaoyin/RTCAN-1D/tree/master/figs/architecture.png)
+![](https://s1.ax1x.com/2020/08/25/d6a290.png)
 
 Architecture of RTCAG for EDA feature extraction
 
-[![RTCAG](https://github.com/guanghaoyin/RTCAN-1D/tree/master/figs/RTCAG.png)](https://github.com/guanghaoyin/RTCAN-1D/tree/master/figs/RTCAG.png)
+![](https://github.com/guanghaoyin/RTCAN-1D/tree/master/figs/RTCAG.png)
 
 
 
