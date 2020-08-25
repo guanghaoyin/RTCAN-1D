@@ -19,11 +19,11 @@ Considerable attention has been paid for physiological signal-based emotion reco
 
 Whole Architecture of RTCAN-1D
 
-![](https://s1.ax1x.com/2020/08/25/d6a290.png)
+![](https://s1.ax1x.com/2020/08/25/d60a1x.png)
 
 Architecture of RTCAG for EDA feature extraction
 
-![](https://s1.ax1x.com/2020/08/25/d6dVKS.png)
+![](https://s1.ax1x.com/2020/08/25/d60DBD.png)
 
 
 
@@ -38,7 +38,7 @@ Architecture of RTCAG for EDA feature extraction
 3. Getting the music features from the preprocessed data of PMEmo. The static music feature extraction has been accomplished by OpenSMILE in our previous PMEmo dataset.
 4. Conducting the CvxEDA decomposition to get phasic and tonic signals. Please refer to the searched CvxEDA.py in Github
 5. Conducting annotation recreation. As followed figure illustrates, (a) The annotation collection from a subject in the V/A emotional space; (b) The k-means clustering to calculate two cluster centers and their midpoint; (c) The high and low arousal state separated by threshold; (d) The high and low valence state separated by threshold.
-![](https://s1.ax1x.com/2020/08/25/d6djGq.th.png)
+![](https://s1.ax1x.com/2020/08/25/d606Nd.png)
 6. Saving the phasic, tonic and original signals as .txt file for reading.  Saving the label as .csv file. 
 
 
