@@ -1,6 +1,6 @@
 # RTCAN-1D
 
-The code of paper "A Efficient Multimodal framework for large scale Emotion Recognition by Fusing Music and Electrodermal Activity Signals"
+The code of paper "A Multimodal framework for large scale Emotion Recognition by Fusing Music and Electrodermal Activity Signals"
 
 RTCAN-1D is a multimodel framework to fuse music and EDA signals for emotion recognition.
 
@@ -78,7 +78,7 @@ If you find the code helpful in your resarch or work, please cite the following 
 
 ```
 @article{yin2020aeffi,
-  title={A Efficient Multimodal Framework for Large Scale Emotion Recognition by Fusing Music and Electrodermal Activity Signals},
+  title={A Multimodal Framework for Large Scale Emotion Recognition by Fusing Music and Electrodermal Activity Signals},
   author={Guanghao Yin, Shouqian Sun, Dian Yu, Kejun Zhang},
   journal={arXiv preprint arXiv:2008.09743},
   year={2020}
