@@ -283,25 +283,21 @@ class NONLocal1D(nn.Module):
 
     def forward(self, x):
         batch_size, C, L = x.shape
-        L1 = int(L / 4)
-        L2 = int(L / 2)
-        L3 = int(3 * L / 4)
+        L1 = int(L / 3)
+        L2 = int(2*L / 3)
         nonlocal_feature = torch.zeros_like(x)
 
         feat_sub_l1 = x[:, :, :L1]
         feat_sub_l2 = x[:, :, L1: L2]
-        feat_sub_l3 = x[:, :, L2: L3]
-        feat_sub_l4 = x[:, :, L3:]
+        feat_sub_l3 = x[:, :, L2:]
 
         nonlocal_l1 = self.non_local(feat_sub_l1)
         nonlocal_l2 = self.non_local(feat_sub_l2)
         nonlocal_l3 = self.non_local(feat_sub_l3)
-        nonlocal_l4 = self.non_local(feat_sub_l4)
 
         nonlocal_feature[:, :, :L1] = nonlocal_l1
         nonlocal_feature[:, :, L1: L2] = nonlocal_l2
-        nonlocal_feature[:, :, L2: L3] = nonlocal_l3
-        nonlocal_feature[:, :, L3:] = nonlocal_l4
+        nonlocal_feature[:, :, L2: ] = nonlocal_l3
 
         return nonlocal_feature
 
