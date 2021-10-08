@@ -1,4 +1,4 @@
-# Update 2021.10.8
+## Update 2021.10.8
 Our paper has been accepted by ACM Transactions on Multimedia Computing Communications and Applications
 
 # RTCAN-1D
