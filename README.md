@@ -1,3 +1,6 @@
+# Update 2021.10.8
+Our paper has been accepted by ACM Transactions on Multimedia Computing Communications and Applications
+
 # RTCAN-1D
 
 The code of paper "A Multimodal framework for large scale Emotion Recognition by Fusing Music and Electrodermal Activity Signals". Our paper is under reviewed.
