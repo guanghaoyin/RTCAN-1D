@@ -1,5 +1,5 @@
 ## Update 2021.10.8
-Our paper has been accepted by ACM Transactions on Multimedia Computing Communications and Applications ！
+Our paper has been accepted by ACM Transactions on Multimedia Computing Communications and Applications （TOMM）！
 
 # RTCAN-1D
 
