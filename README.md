@@ -80,12 +80,17 @@ python AMIGOS_run.py run_train('Valence','tonic', use_attention = True, use_non_
 If you find the code helpful in your resarch or work, please cite the following papers.
 
 ```
-@article{yin2020efficient,
-  title={A Efficient Multimodal Framework for Large Scale Emotion Recognition by Fusing Music and Electrodermal Activity Signals},
-  author={Yin, Guanghao and Sun, Shouqian and Yu, Dian and Zhang, Kejun},
-  journal={arXiv preprint arXiv:2008.09743},
-  year={2020}
+@article{yin2022multimodal,
+  title={A Multimodal Framework for Large-Scale Emotion Recognition by Fusing Music and Electrodermal Activity Signals},
+  author={Yin, Guanghao and Sun, Shouqian and Yu, Dian and Li, Dejian and Zhang, Kejun},
+  journal={ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM)},
+  volume={18},
+  number={3},
+  pages={1--23},
+  year={2022},
+  publisher={ACM New York, NY}
 }
+
 
 @inproceedings{Zhang:2018:PDM:3206025.3206037,
  author = {Zhang, Kejun and Zhang, Hui and Li, Simeng and Yang, Changyuan and Sun, Lingyun},
